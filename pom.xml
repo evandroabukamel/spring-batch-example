@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-batch-example</artifactId>
+	<artifactId>springbatchexample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-batch-example</name>
+	<name>springbatchexample</name>
 	<description>Demo project for Spring Batch</description>
 
 	<properties>
